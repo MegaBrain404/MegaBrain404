@@ -42,27 +42,6 @@ Software developer focused on Python and web development, based in Ourinhos, SP,
 
 ---
 
-### GitHub Statistics
-
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MegaBrain404&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaBrain404&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=MegaBrain404&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### Trophies
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MegaBrain404&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ### Contribution Graph
 
 <picture>
