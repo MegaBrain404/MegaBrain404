@@ -24,9 +24,42 @@ Software developer focused on Python and web development, based in Ourinhos, SP,
 
 <img src="https://skillicons.dev/icons?i=vscode,git" />
 
+
+
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+
+
+
+
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logoColor=white)
+
+
+
+
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+
+
+
+---
+
+### GitHub Statistics
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MegaBrain404&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaBrain404&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=MegaBrain404&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### Trophies
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MegaBrain404&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
@@ -41,6 +74,10 @@ Software developer focused on Python and web development, based in Ourinhos, SP,
 
 <div align="center">
 
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=MegaBrain404&color=blue&style=flat)
+
+
 
 </div>
