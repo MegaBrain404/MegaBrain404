@@ -1,8 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2E9EF7&height=220&section=header&text=Lucas%20Reis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descSize=22&descAlignY=60" alt="Lucas Reis - Software Developer" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=45&lines=Software+Developer;Python+%26+Web+Development;Based+in+Ourinhos%2C+SP%2C+Brazil" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%26+Web+Development;Based+in+Ourinhos%2C+SP%2C+Brazil" alt="Typing SVG" />
+<br>
+
+<a href="https://www.linkedin.com/in/lucas-reis-0112552a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/MegaBrain404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Ourinhos%2C%20SP-Brazil-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+<br><br>
 
 <details>
 <summary><b>Click here to say hi 👋</b></summary>
